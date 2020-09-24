@@ -1,0 +1,7 @@
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\9 - TesteEscopo\Escopo\Escopo\bin\Debug\Escopo.exe.config
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\9 - TesteEscopo\Escopo\Escopo\bin\Debug\Escopo.exe
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\9 - TesteEscopo\Escopo\Escopo\bin\Debug\Escopo.pdb
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\9 - TesteEscopo\Escopo\Escopo\obj\Debug\Escopo.csprojAssemblyReference.cache
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\9 - TesteEscopo\Escopo\Escopo\obj\Debug\Escopo.csproj.CoreCompileInputs.cache
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\9 - TesteEscopo\Escopo\Escopo\obj\Debug\Escopo.exe
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\9 - TesteEscopo\Escopo\Escopo\obj\Debug\Escopo.pdb

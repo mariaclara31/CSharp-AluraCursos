@@ -1,0 +1,2 @@
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\13 - ByteBank\Depositar\02 - Depositar\obj\Debug\02 - Depositar.csprojAssemblyReference.cache
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\13 - ByteBank\Depositar\02 - Depositar\obj\Debug\02 - Depositar.csproj.CoreCompileInputs.cache

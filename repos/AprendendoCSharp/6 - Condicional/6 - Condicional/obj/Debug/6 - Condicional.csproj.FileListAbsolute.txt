@@ -1,0 +1,7 @@
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\6 - Condicional\6 - Condicional\bin\Debug\6 - Condicional.exe.config
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\6 - Condicional\6 - Condicional\bin\Debug\6 - Condicional.exe
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\6 - Condicional\6 - Condicional\bin\Debug\6 - Condicional.pdb
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\6 - Condicional\6 - Condicional\obj\Debug\6 - Condicional.csprojAssemblyReference.cache
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\6 - Condicional\6 - Condicional\obj\Debug\6 - Condicional.csproj.CoreCompileInputs.cache
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\6 - Condicional\6 - Condicional\obj\Debug\6 - Condicional.exe
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\6 - Condicional\6 - Condicional\obj\Debug\6 - Condicional.pdb

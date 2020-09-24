@@ -1,0 +1,7 @@
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\P10-TesteWhile\TesteWhile\TesteWhile\bin\Debug\TesteWhile.exe.config
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\P10-TesteWhile\TesteWhile\TesteWhile\bin\Debug\TesteWhile.exe
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\P10-TesteWhile\TesteWhile\TesteWhile\bin\Debug\TesteWhile.pdb
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\P10-TesteWhile\TesteWhile\TesteWhile\obj\Debug\TesteWhile.csprojAssemblyReference.cache
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\P10-TesteWhile\TesteWhile\TesteWhile\obj\Debug\TesteWhile.csproj.CoreCompileInputs.cache
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\P10-TesteWhile\TesteWhile\TesteWhile\obj\Debug\TesteWhile.exe
+C:\Users\maria.lemos\source\repos\AprendendoCSharp\P10-TesteWhile\TesteWhile\TesteWhile\obj\Debug\TesteWhile.pdb

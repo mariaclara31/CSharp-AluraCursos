@@ -1,0 +1,7 @@
+C:\Users\maria.lemos\source\repos\CriandoVariaveis\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe.config
+C:\Users\maria.lemos\source\repos\CriandoVariaveis\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe
+C:\Users\maria.lemos\source\repos\CriandoVariaveis\CriandoVariaveis\bin\Debug\CriandoVariaveis.pdb
+C:\Users\maria.lemos\source\repos\CriandoVariaveis\CriandoVariaveis\obj\Debug\CriandoVariaveis.csprojAssemblyReference.cache
+C:\Users\maria.lemos\source\repos\CriandoVariaveis\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\maria.lemos\source\repos\CriandoVariaveis\CriandoVariaveis\obj\Debug\CriandoVariaveis.exe
+C:\Users\maria.lemos\source\repos\CriandoVariaveis\CriandoVariaveis\obj\Debug\CriandoVariaveis.pdb
